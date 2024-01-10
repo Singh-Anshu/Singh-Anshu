@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  A mobile developer from India.
+- 💻 A mobile developer from India.
 - 💬 Ask me about Android development, Data Structure and Algorithm
 <Br>
 </Br>
