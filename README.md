@@ -2,7 +2,7 @@
 
 - 💻 A mobile developer from India.
 - 💬 Ask me about Android development, Data Structure and Algorithm
-- 📝 I’m currently learning Android Jetpack Compose
+- 📝💻 I’m currently learning Android Jetpack Compose
 <Br>
 </Br>
  
